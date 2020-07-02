@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "article-postform",
+    "public": "www",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
